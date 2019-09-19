@@ -8,8 +8,8 @@ Filelist
 compression.txt
   File or data compression
 
-gz/
-  gzip file and data compression
+gzip/
+  gzip, gunzip, zcat - compress or expand files
 
 link.txt
   Compression related links
