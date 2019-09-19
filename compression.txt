@@ -1,0 +1,9 @@
+compression.txt
+Created Thu Sep 19 08:27:33 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Compression
+
+
+File and data compression
