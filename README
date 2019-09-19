@@ -1,0 +1,16 @@
+README
+Created Thu Sep 19 08:25:52 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+compression.txt
+  File or data compression
+
+gz/
+  gzip file and data compression
+
+link.txt
+  Compression related links
+
